@@ -17,7 +17,7 @@
 + **PYTHON 3.10+**
 + **OPENCV, MEDIAPIPE, NUMPY,** (pip install opencv-python mediapipe numpy)
 + **C# SUPPORT FOR VS CODE**
-+ **CAMERA/WEBCAM SUPPORRT**
++ **CAMERA/WEBCAM SUPPORT**
 ---------------------------------------------
 
 **SETUP INSTRUCTIONS**
