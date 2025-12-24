@@ -46,7 +46,7 @@
 ------------------------------------------------------------
 + Although AI Agents were used for code generation, extention, and debugging assistance, all final decisions, modifications, and
   implementations were made by the original author. The use of AI was for educational purposes and to accelerate development during production
-  of this project. Users of this code should read and understanding the code before using it for educational projects, and
+  of this project. Users of this code should read and understand the code before using it for educational projects, and
   should not be used for unauthorized and illegal activities.
 ---------------------------------------------------------------------------------------------------------------------
 THE AUTHOR RECOGNIZES AI'S IMPACT ON INDUSTRIES, AND DISCLOSURE OF AI-ASSISTANCE IS INCLUDED FOR ETHICAL TRANSPARENCY
