@@ -15,7 +15,7 @@
 ---------------------------------------------
 + **UNITY 6.3+ LTS (RECOMMENDED)**
 + **PYTHON 3.10+**
-+ **OPENCV, MEDIAPIPE, NUMPY** (pip install opencv-python mediapipe numpy)
++ **OPENCV, MEDIAPIPE, NUMPY,** (pip install opencv-python mediapipe numpy)
 + **C# SUPPORT FOR VS CODE**
 + **CAMERA/WEBCAM SUPPORRT**
 ---------------------------------------------
