@@ -38,17 +38,16 @@ CAMERA/WEBCAM SUPPORRT
 
 **CREDITS/ASSISTANCE**
 ------------------------------------------------------------
-Original HandTracking YouTube Tutorial - [Murtaza's Workshop] (Link to tutorial: https://www.youtube.com/watch?v=RQ-2JWzNc6k&t=868s)
-Assistance from AI Agents: ClaudeAI, ChatGPT, CoPilot
++ Original HandTracking YouTube Tutorial - [Murtaza's Workshop] (Link to tutorial: https://www.youtube.com/watch?v=RQ-2JWzNc6k&t=868s)
++ Assistance from AI Agents: ClaudeAI, ChatGPT, CoPilot
 ------------------------------------------------------------
 
 **AUTHOR'S NOTE**
 ------------------------------------------------------------
-Although AI Agents were used for code generation, extention, and debugging assistance, all final decisions, modifications, and
-implementations were made by the original author. The use of AI was for educational purposes and to accelerate development during production
-of this project. Users of this code should read and understanding the code before using it for educational projects, and
-should not be used for unauthorized and illegal activities.
-
++ Although AI Agents were used for code generation, extention, and debugging assistance, all final decisions, modifications, and
+  implementations were made by the original author. The use of AI was for educational purposes and to accelerate development during production
+  of this project. Users of this code should read and understanding the code before using it for educational projects, and
+  should not be used for unauthorized and illegal activities.
 ---------------------------------------------------------------------------------------------------------------------
 THE AUTHOR RECOGNIZES AI'S IMPACT ON INDUSTRIES, AND DISCLOSURE OF AI-ASSISTANCE IS INCLUDED FOR ETHICAL TRANSPARENCY
 ---------------------------------------------------------------------------------------------------------------------
