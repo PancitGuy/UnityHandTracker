@@ -7,9 +7,9 @@
 
 **BRANCHES**
 ----------------------------------------------
-**MAIN** - Containing the Unity Project, which includes C# Scripts and Main Unity Scene
-**CVCode** - Containing the Hand Tracking Python file necessary to record hand movement
-
++ **MAIN** - Containing the Unity Project, which includes C# Scripts and Main Unity Scene
++ **CVCode** - Containing the Hand Tracking Python file necessary to record hand movement
+----------------------------------------------
 
 **REQUIREMENTS**
 ---------------------------------------------
