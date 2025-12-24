@@ -1,7 +1,7 @@
 **DESCRIPTION**
 -----------------------------------------------------------
-+ Beginner OpenCV/Unity Project Focusing on  Implementing a Hand-Tracking System, building upon a YouTube tutorial 
-  foundation and using AI Agents to assist with code for dual-hand tracking and pseudo-depth perception
++ **Beginner OpenCV/Unity Project Focusing on  Implementing a Hand-Tracking System, building upon a YouTube tutorial 
+  foundation and using AI Agents to assist with code for dual-hand tracking and pseudo-depth perception**
 + **(Note - Assistance from ClaudeAI, ChatGPT, and CoPilot was used)**
 -----------------------------------------------------------
 
