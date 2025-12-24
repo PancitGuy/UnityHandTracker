@@ -13,11 +13,11 @@ foundation and using AI Agents to assist with code for dual-hand tracking and ps
 
 **REQUIREMENTS**
 ---------------------------------------------
-UNITY 6.3+ LTS
-PYTHON 3.10+
-OPENCV, MEDIAPIPE, NUMPY (pip install opencv-python mediapipe numpy)
-C# SUPPORT FOR VS CODE
-CAMERA/WEBCAM SUPPORRT
++ **UNITY 6.3+ LTS (RECOMMENDED)**
++ **PYTHON 3.10+**
++ **OPENCV, MEDIAPIPE, NUMPY** (pip install opencv-python mediapipe numpy)
++ **C# SUPPORT FOR VS CODE**
++ **CAMERA/WEBCAM SUPPORRT**
 ---------------------------------------------
 
 **SETUP INSTRUCTIONS**
