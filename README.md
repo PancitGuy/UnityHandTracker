@@ -43,7 +43,7 @@
 
 **AUTHOR'S NOTE**
 ------------------------------------------------------------
-+ Although AI Agents were used for code generation, extention, and debugging assistance, all final decisions, modifications, and
++ Although AI Agents were used for conceptual assistance, extension guidance, and debugging support, all final decisions, modifications, and
   implementations were made by the original author. The use of AI was for educational purposes and to accelerate development during production
   of this project. Users of this code should read and understand the code before using it for educational projects, and
   should not be used for unauthorized and illegal activities.
